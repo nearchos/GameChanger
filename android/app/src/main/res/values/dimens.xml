@@ -1,0 +1,20 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="story_image_icon_side">180dp</dimen>
+    <dimen name="story_image_icon_padding">16dp</dimen>
+    <dimen name="story_name_text_size">16sp</dimen>
+    <dimen name="story_description_text_size">12sp</dimen>
+
+    <dimen name="options_panel_width">240dp</dimen>
+
+    <dimen name="loading_text_size">16sp</dimen>
+
+    <dimen name="video_panel_width">320dp</dimen>
+    <dimen name="video_panel_heigth">240dp</dimen>
+    <dimen name="dialog_panel_width">240dp</dimen>
+    <dimen name="dialog_panel_heigth">180dp</dimen>
+    <dimen name="dialog_title_text_size">16sp</dimen>
+    <dimen name="dialog_message_text_size">12sp</dimen>
+</resources>
